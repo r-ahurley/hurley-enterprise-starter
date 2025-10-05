@@ -8,4 +8,4 @@ The framework is distributed under a restricted internal license:
 Purpose:
 To maintain a consistent, auditable, and enterprise-grade development standard across all Hurley-originated products, ensuring reproducibility, deployment integrity, and long-term maintainability.
 For partnership or licensing inquiries, please contact:
-📧 dev@hurleypiano.com
+📧 info@hurleypiano.com
