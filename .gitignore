@@ -1,0 +1,12 @@
+.env
+.env.*
+*.env.*
+.DS_Store
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+.vscode/
+.idea/
+Thumbs.db
+.cache/
