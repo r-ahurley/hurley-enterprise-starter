@@ -17,3 +17,10 @@ npm start
 - **docs/** – onboarding + architecture notes  
 
 ---
+
+## Rebuild Backend
+```
+cd backend
+./bootstrap.sh
+```
+
